@@ -20,5 +20,7 @@ Studying vehicle ads to determine what factors influence vehicle price.
 # Libraries:
 
 pandas 
+
 matplotlib.
+
 numpy
