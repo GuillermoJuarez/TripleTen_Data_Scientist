@@ -15,7 +15,7 @@
 
 # Goal:
 
-Analyzing customer data to determine the likelihood that a customer defaults on a loan and determine the likelihood that a customer defaults on a loan.
+Analysis of the bank's customer data to answer research questions to create a credit score for a potential customer and determine the likelihood that a customer defaults on a loan.
 
 # Libraries used:
 
