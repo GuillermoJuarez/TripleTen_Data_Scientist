@@ -44,8 +44,7 @@
 
 # Goals:
 
-* Analyze client's consumer behaviour.
-* Establish which telcom package generates greater income.
+Analyze client's consumer behaviour and establish which telcom package generates greater income.
 
 # Libraries:
 
