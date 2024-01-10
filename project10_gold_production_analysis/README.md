@@ -27,8 +27,6 @@ This is what the features are called:
 
 * [stage].[parameter_type].[parameter_name]
 
-* Example: rougher.input.feed_ag
-
 Possible values ​​for [stage]:
 
 * rougher—flotation
