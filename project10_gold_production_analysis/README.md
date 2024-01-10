@@ -53,6 +53,4 @@ numpy
 
 matplotlib
 
-seaborn
-
 sklearn
