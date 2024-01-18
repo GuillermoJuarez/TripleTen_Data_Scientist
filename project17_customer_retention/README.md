@@ -1,8 +1,11 @@
 # Data:
 
 contract.csv — contract information
+
 personal.csv — customer personal data
+
 internet.csv — information about internet services
+
 phone.csv — information about telephone services
 
 # Goals:
